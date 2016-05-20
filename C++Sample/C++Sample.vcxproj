@@ -153,8 +153,13 @@
     <ClCompile Include="9. Operator Overloading\9.3. Intput &amp; Output Operator Overloading\io_overload.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="9. Operator Overloading\9.4. Overload Using Member Funcstions\member_func_overload.cpp" />
+    <ClCompile Include="9. Operator Overloading\9.4. Overload Using Member Funcstions\member_func_overload.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="array.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="comp_overload.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="destructor.cpp">
