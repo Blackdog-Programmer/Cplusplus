@@ -13,8 +13,8 @@ public:
 	// Arithematic Operator Overloading
 	friend Box operator+ (Box &b1, Box &b2);
 	friend Box operator- (Box &b1, Box &b2);
-	friend Box operator* (Box &b1, int multi);
-	friend Box operator* (int multi, Box &b);
+	friend Box operator* (Box &b1, int multi); // Ordering is care
+	friend Box operator* (int multi, Box &b);  // Ordering is care
 	friend Box operator/ (Box &b, int divid);
 	// I/O Operator Overloading
 	friend ostream& operator<< (ostream &out, const Box &b) {

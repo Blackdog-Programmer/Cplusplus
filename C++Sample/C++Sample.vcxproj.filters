@@ -37,6 +37,9 @@
     <Filter Include="Source Files\9. Operator Overloading\9.2 Arithematic Overload">
       <UniqueIdentifier>{912bad9f-c94c-45e3-b66c-650a0af31209}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\9. Operator Overloading\9.3. Input Output Overload">
+      <UniqueIdentifier>{5769bb22-7b71-4f9f-a538-cd61dbfe2000}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="array.cpp">
@@ -59,6 +62,9 @@
     </ClCompile>
     <ClCompile Include="9. Operator Overloading\9.2. Arithematic Operator Overloading\arithemetic_overload.cpp">
       <Filter>Source Files\9. Operator Overloading\9.2 Arithematic Overload</Filter>
+    </ClCompile>
+    <ClCompile Include="io_overload.cpp">
+      <Filter>Source Files\9. Operator Overloading\9.3. Input Output Overload</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
