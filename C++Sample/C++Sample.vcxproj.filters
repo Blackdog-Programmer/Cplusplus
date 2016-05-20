@@ -40,6 +40,9 @@
     <Filter Include="Source Files\9. Operator Overloading\9.3. Input Output Overload">
       <UniqueIdentifier>{5769bb22-7b71-4f9f-a538-cd61dbfe2000}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\9. Operator Overloading\9.4. Using member function">
+      <UniqueIdentifier>{af983f25-8481-4914-8a2e-1bb558e7ad6c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="array.cpp">
@@ -65,6 +68,9 @@
     </ClCompile>
     <ClCompile Include="9. Operator Overloading\9.3. Intput &amp; Output Operator Overloading\io_overload.cpp">
       <Filter>Source Files\9. Operator Overloading\9.3. Input Output Overload</Filter>
+    </ClCompile>
+    <ClCompile Include="9. Operator Overloading\9.4. Overload Using Member Funcstions\member_func_overload.cpp">
+      <Filter>Source Files\9. Operator Overloading\9.4. Using member function</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
