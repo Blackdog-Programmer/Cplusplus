@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="14. Template\14.1 Function Template\function_template.cpp" />
     <ClCompile Include="9. Operator Overloading\9.2. Arithematic Operator Overloading\arithemetic_overload.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -156,10 +157,10 @@
     <ClCompile Include="9. Operator Overloading\9.4. Overload Using Member Funcstions\member_func_overload.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="array.cpp">
+    <ClCompile Include="9. Operator Overloading\9.6. Comparison Operator Overloading\comp_overload.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="comp_overload.cpp">
+    <ClCompile Include="array.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="destructor.cpp">

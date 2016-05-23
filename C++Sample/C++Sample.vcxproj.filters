@@ -46,6 +46,12 @@
     <Filter Include="Source Files\9. Operator Overloading\9.6. Comparison Overload">
       <UniqueIdentifier>{365d2803-c68e-4f2d-a3e7-ded2abb9173a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\14. Template">
+      <UniqueIdentifier>{abab3233-a377-49fe-9e5b-3e26909bddaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\14. Template\14.1 Function Template">
+      <UniqueIdentifier>{fd81edc1-a2a3-48c8-b3d2-fade186f8e26}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="array.cpp">
@@ -75,8 +81,11 @@
     <ClCompile Include="9. Operator Overloading\9.4. Overload Using Member Funcstions\member_func_overload.cpp">
       <Filter>Source Files\9. Operator Overloading\9.4. Using member function</Filter>
     </ClCompile>
-    <ClCompile Include="comp_overload.cpp">
+    <ClCompile Include="9. Operator Overloading\9.6. Comparison Operator Overloading\comp_overload.cpp">
       <Filter>Source Files\9. Operator Overloading\9.6. Comparison Overload</Filter>
+    </ClCompile>
+    <ClCompile Include="14. Template\14.1 Function Template\function_template.cpp">
+      <Filter>Source Files\14. Template\14.1 Function Template</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
