@@ -52,6 +52,9 @@
     <Filter Include="Source Files\14. Template\14.1 Function Template">
       <UniqueIdentifier>{fd81edc1-a2a3-48c8-b3d2-fade186f8e26}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\14. Template\14.3 Template Class">
+      <UniqueIdentifier>{77087bdd-f1d0-4e2f-8e6d-9232fb1ae316}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="array.cpp">
@@ -86,6 +89,9 @@
     </ClCompile>
     <ClCompile Include="14. Template\14.1 Function Template\function_template.cpp">
       <Filter>Source Files\14. Template\14.1 Function Template</Filter>
+    </ClCompile>
+    <ClCompile Include="14. Template\14.3 Template Class\class_template.cpp">
+      <Filter>Source Files\14. Template\14.3 Template Class</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
