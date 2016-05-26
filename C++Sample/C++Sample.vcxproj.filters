@@ -13,18 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Destructor">
-      <UniqueIdentifier>{c411d628-93d3-4cd5-b288-81e9c2e5c9cd}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Array">
-      <UniqueIdentifier>{52c54769-d3ee-4f78-b558-8d3a911a5335}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Vector">
-      <UniqueIdentifier>{73aeb9a8-14d8-469c-a4bd-2ea378c12aca}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Set">
-      <UniqueIdentifier>{7fc8f080-fd15-463a-8f68-d4cf7ed12f35}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\8. Basic object-oriented programming">
       <UniqueIdentifier>{eb1513d8-1abe-4ec9-8ffa-38942ff7bf8a}</UniqueIdentifier>
     </Filter>
@@ -55,26 +43,11 @@
     <Filter Include="Source Files\14. Template\14.3 Template Class">
       <UniqueIdentifier>{77087bdd-f1d0-4e2f-8e6d-9232fb1ae316}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\9. Operator Overloading\9.10. Typecast Overalod">
+      <UniqueIdentifier>{5c614ca2-3551-4a85-9dcc-f21e6551f64c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="array.cpp">
-      <Filter>Source Files\Array</Filter>
-    </ClCompile>
-    <ClCompile Include="destructor.cpp">
-      <Filter>Source Files\Destructor</Filter>
-    </ClCompile>
-    <ClCompile Include="vector.cpp">
-      <Filter>Source Files\Vector</Filter>
-    </ClCompile>
-    <ClCompile Include="set.cpp">
-      <Filter>Source Files\Set</Filter>
-    </ClCompile>
-    <ClCompile Include="friend_function.cpp">
-      <Filter>Source Files\8. Basic object-oriented programming\8.13 Friend functions and Member variables</Filter>
-    </ClCompile>
-    <ClCompile Include="friend_class.cpp">
-      <Filter>Source Files\8. Basic object-oriented programming\8.13 Friend functions and Member variables</Filter>
-    </ClCompile>
     <ClCompile Include="9. Operator Overloading\9.2. Arithematic Operator Overloading\arithemetic_overload.cpp">
       <Filter>Source Files\9. Operator Overloading\9.2 Arithematic Overload</Filter>
     </ClCompile>
@@ -92,6 +65,15 @@
     </ClCompile>
     <ClCompile Include="14. Template\14.3 Template Class\class_template.cpp">
       <Filter>Source Files\14. Template\14.3 Template Class</Filter>
+    </ClCompile>
+    <ClCompile Include="8. Basic object-oriented programming\8.13. Friend functions and classes\friend_class.cpp">
+      <Filter>Source Files\8. Basic object-oriented programming\8.13 Friend functions and Member variables</Filter>
+    </ClCompile>
+    <ClCompile Include="8. Basic object-oriented programming\8.13. Friend functions and classes\friend_function.cpp">
+      <Filter>Source Files\8. Basic object-oriented programming\8.13 Friend functions and Member variables</Filter>
+    </ClCompile>
+    <ClCompile Include="9. Operator Overloading\9.10. Overloading Typecasts\typecast_overload.cpp">
+      <Filter>Source Files\9. Operator Overloading\9.10. Typecast Overalod</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
