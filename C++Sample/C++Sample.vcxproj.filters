@@ -46,6 +46,9 @@
     <Filter Include="Source Files\9. Operator Overloading\9.10. Typecast Overalod">
       <UniqueIdentifier>{5c614ca2-3551-4a85-9dcc-f21e6551f64c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\17. String Class">
+      <UniqueIdentifier>{d9f8f2cf-b2e1-4bb9-aa55-c4467838049c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="9. Operator Overloading\9.2. Arithematic Operator Overloading\arithemetic_overload.cpp">
@@ -74,6 +77,9 @@
     </ClCompile>
     <ClCompile Include="9. Operator Overloading\9.10. Overloading Typecasts\typecast_overload.cpp">
       <Filter>Source Files\9. Operator Overloading\9.10. Typecast Overalod</Filter>
+    </ClCompile>
+    <ClCompile Include="17. String Class\17.2 String Construction\string_constructor.cpp">
+      <Filter>Source Files\17. String Class</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
