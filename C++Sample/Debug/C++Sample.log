@@ -1,3 +1,2 @@
-﻿  string_constructor.cpp
-c:\users\dilet\documents\github\c++lab\c++sample\17. string class\17.2 string construction\string_constructor.cpp(13): warning C4930: 'std::string emp_str(void)': prototyped function not called (was a variable definition intended?)
+﻿  string_length_capacity.cpp
   C++Sample.vcxproj -> C:\Users\dilet\Documents\GitHub\C++Lab\Debug\C++LAB.exe

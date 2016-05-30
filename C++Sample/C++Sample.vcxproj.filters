@@ -49,6 +49,12 @@
     <Filter Include="Source Files\17. String Class">
       <UniqueIdentifier>{d9f8f2cf-b2e1-4bb9-aa55-c4467838049c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\17. String Class\17.2 String Construction">
+      <UniqueIdentifier>{f72d9ffe-efbd-40cb-a5a7-a771974fc9aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\17. String Class\17.3. String length and capacity">
+      <UniqueIdentifier>{6e9b5d2b-7335-43b1-a8e2-a7a2c98d4996}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="9. Operator Overloading\9.2. Arithematic Operator Overloading\arithemetic_overload.cpp">
@@ -79,7 +85,10 @@
       <Filter>Source Files\9. Operator Overloading\9.10. Typecast Overalod</Filter>
     </ClCompile>
     <ClCompile Include="17. String Class\17.2 String Construction\string_constructor.cpp">
-      <Filter>Source Files\17. String Class</Filter>
+      <Filter>Source Files\17. String Class\17.2 String Construction</Filter>
+    </ClCompile>
+    <ClCompile Include="17. String Class\17.3. String length and capacity\string_length_capacity.cpp">
+      <Filter>Source Files\17. String Class\17.3. String length and capacity</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
