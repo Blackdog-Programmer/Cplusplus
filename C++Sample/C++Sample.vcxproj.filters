@@ -64,6 +64,9 @@
     <Filter Include="Source Files\17. String Class\17.6 string appending">
       <UniqueIdentifier>{d31b58e1-a44a-4cfd-aa19-decf538a0b22}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\17. String Class\17.7 string inserting">
+      <UniqueIdentifier>{cc226e3b-c76f-4ca0-bf39-8b724f07ef4b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="9. Operator Overloading\9.2. Arithematic Operator Overloading\arithemetic_overload.cpp">
@@ -107,6 +110,9 @@
     </ClCompile>
     <ClCompile Include="17. String Class\17.3 string length and capacity\string_length_capacity.cpp">
       <Filter>Source Files\17. String Class\17.3. String length and capacity</Filter>
+    </ClCompile>
+    <ClCompile Include="17. String Class\17.7 string inserting\string_insert.cpp">
+      <Filter>Source Files\17. String Class\17.7 string inserting</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

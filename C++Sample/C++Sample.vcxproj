@@ -165,7 +165,12 @@
     <ClCompile Include="17. String Class\17.5 string assignment and swap\string_assignment_swap.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="17. String Class\17.6 string appending\string_append.cpp" />
+    <ClCompile Include="17. String Class\17.6 string appending\string_append.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="17. String Class\17.7 string inserting\string_insert.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="8. Basic object-oriented programming\8.13. Friend functions and classes\friend_class.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
