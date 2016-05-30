@@ -10,7 +10,7 @@ main(int agrc, char *argv[])
 	std::string str = "World!!!";
 
 	// String Constructors
-	std::string emp_str();	// #1 Empty String
+	std::string emp_str();		// #1 Empty String
 	std::string cop_str(str);	// #2 Copy Constructor
 	std::string sub_str(str, 5, 3); // #3 Substring
 	std::string cop_cstr(cstr);	// #4 Copy C string
