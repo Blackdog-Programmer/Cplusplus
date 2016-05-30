@@ -159,7 +159,10 @@
     <ClCompile Include="17. String Class\17.3. String length and capacity\string_length_capacity.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="17. String Class\17.4 String character access and conversion C-style\stinrg_character_access_ctyle_conversion.cpp" />
+    <ClCompile Include="17. String Class\17.4 String character access and conversion C-style\stinrg_character_access_ctyle_conversion.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="17. String Class\17.5 string assignment and swap\string_assignment_swap.cpp" />
     <ClCompile Include="8. Basic object-oriented programming\8.13. Friend functions and classes\friend_class.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
