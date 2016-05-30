@@ -61,6 +61,9 @@
     <Filter Include="Source Files\17. String Class\17.5 string assignment and swap">
       <UniqueIdentifier>{046fe19a-478e-4f4c-bf25-b37eb49cfb1f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\17. String Class\17.6 string appending">
+      <UniqueIdentifier>{d31b58e1-a44a-4cfd-aa19-decf538a0b22}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="9. Operator Overloading\9.2. Arithematic Operator Overloading\arithemetic_overload.cpp">
@@ -93,14 +96,17 @@
     <ClCompile Include="17. String Class\17.2 String Construction\string_constructor.cpp">
       <Filter>Source Files\17. String Class\17.2 String Construction</Filter>
     </ClCompile>
-    <ClCompile Include="17. String Class\17.3. String length and capacity\string_length_capacity.cpp">
-      <Filter>Source Files\17. String Class\17.3. String length and capacity</Filter>
-    </ClCompile>
     <ClCompile Include="17. String Class\17.4 String character access and conversion C-style\stinrg_character_access_ctyle_conversion.cpp">
       <Filter>Source Files\17. String Class\17.4 String character access and conversion C-style</Filter>
     </ClCompile>
     <ClCompile Include="17. String Class\17.5 string assignment and swap\string_assignment_swap.cpp">
       <Filter>Source Files\17. String Class\17.5 string assignment and swap</Filter>
+    </ClCompile>
+    <ClCompile Include="17. String Class\17.6 string appending\string_append.cpp">
+      <Filter>Source Files\17. String Class\17.6 string appending</Filter>
+    </ClCompile>
+    <ClCompile Include="17. String Class\17.3 string length and capacity\string_length_capacity.cpp">
+      <Filter>Source Files\17. String Class\17.3. String length and capacity</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
