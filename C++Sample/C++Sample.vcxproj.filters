@@ -67,6 +67,18 @@
     <Filter Include="Source Files\17. String Class\17.7 string inserting">
       <UniqueIdentifier>{cc226e3b-c76f-4ca0-bf39-8b724f07ef4b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\6. Arrays, String, Pointer and References">
+      <UniqueIdentifier>{096dcd20-61d3-4346-bc6b-62b05e8d35c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\6. Arrays, String, Pointer and References\6.11 Reference Variables">
+      <UniqueIdentifier>{f40f8723-b259-4f59-a22a-a789a9eccbbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\11. Inheritance">
+      <UniqueIdentifier>{34c9305e-3f1e-4f22-8c33-36776fcc3db7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\11. Inheritance\11.2 Construction Order of Inheritance">
+      <UniqueIdentifier>{d2662f79-9e76-463a-b6f1-f3fc920c87d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="9. Operator Overloading\9.2. Arithematic Operator Overloading\arithemetic_overload.cpp">
@@ -113,6 +125,15 @@
     </ClCompile>
     <ClCompile Include="17. String Class\17.7 string inserting\string_insert.cpp">
       <Filter>Source Files\17. String Class\17.7 string inserting</Filter>
+    </ClCompile>
+    <ClCompile Include="6. Arrays, String, Pointer and References\6.11 Reference Variables\reference_variable.cpp">
+      <Filter>Source Files\6. Arrays, String, Pointer and References\6.11 Reference Variables</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11. Inheritance\11.2 Construction Order of Inheritance\consturction_order.cpp">
+      <Filter>Source Files\11. Inheritance\11.2 Construction Order of Inheritance</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
