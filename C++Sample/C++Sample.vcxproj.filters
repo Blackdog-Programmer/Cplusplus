@@ -76,8 +76,11 @@
     <Filter Include="Source Files\11. Inheritance">
       <UniqueIdentifier>{34c9305e-3f1e-4f22-8c33-36776fcc3db7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\11. Inheritance\11.2 Construction Order of Inheritance">
+    <Filter Include="Source Files\11. Inheritance\11.3 Construction Order of Inheritance">
       <UniqueIdentifier>{d2662f79-9e76-463a-b6f1-f3fc920c87d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\11. Inheritance\11.4 Initialization of Derived Class">
+      <UniqueIdentifier>{6df4928f-715c-48e0-8a6e-596b42814504}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -133,7 +136,10 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="11. Inheritance\11.2 Construction Order of Inheritance\consturction_order.cpp">
-      <Filter>Source Files\11. Inheritance\11.2 Construction Order of Inheritance</Filter>
+      <Filter>Source Files\11. Inheritance\11.3 Construction Order of Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="11. Inheritance\11.4 Initialization of Derived Class\initialization_derived.cpp">
+      <Filter>Source Files\11. Inheritance\11.4 Initialization of Derived Class</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
