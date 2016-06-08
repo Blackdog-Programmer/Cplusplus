@@ -85,6 +85,9 @@
     <Filter Include="Source Files\11. Inheritance\11.5 Access Specifier">
       <UniqueIdentifier>{fd758829-b6de-4a31-9e3c-5738dfa15ebb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\11. Inheritance\11.6 Add Define Insert and Hide">
+      <UniqueIdentifier>{3df20911-aaee-4c3f-a292-8456633d52ed}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="9. Operator Overloading\9.2. Arithematic Operator Overloading\arithemetic_overload.cpp">
@@ -149,6 +152,18 @@
     </ClCompile>
     <ClCompile Include="11. Inheritance\11.5 Access Specifier\inheritance_specifier.cpp">
       <Filter>Source Files\11. Inheritance\11.5 Access Specifier</Filter>
+    </ClCompile>
+    <ClCompile Include="11. Inheritance\11.6 Add Define Insert and Hide\add.cpp">
+      <Filter>Source Files\11. Inheritance\11.6 Add Define Insert and Hide</Filter>
+    </ClCompile>
+    <ClCompile Include="11. Inheritance\11.6 Add Define Insert and Hide\hide.cpp">
+      <Filter>Source Files\11. Inheritance\11.6 Add Define Insert and Hide</Filter>
+    </ClCompile>
+    <ClCompile Include="11. Inheritance\11.6 Add Define Insert and Hide\insert.cpp">
+      <Filter>Source Files\11. Inheritance\11.6 Add Define Insert and Hide</Filter>
+    </ClCompile>
+    <ClCompile Include="11. Inheritance\11.6 Add Define Insert and Hide\redefine.cpp">
+      <Filter>Source Files\11. Inheritance\11.6 Add Define Insert and Hide</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
