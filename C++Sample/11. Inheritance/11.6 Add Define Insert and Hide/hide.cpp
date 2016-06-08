@@ -12,7 +12,7 @@ public:
 
 class Derived : public Base
 {
-private: // Hide Accessibility
+private: // Hide Accessibility: 'public' -> 'private'
 	Base::print; // Note! do not insert function operator'()' at postfix
 };
 
