@@ -171,6 +171,7 @@
     <ClCompile Include="11. Inheritance\11.6 Add Define Insert and Hide\redefine.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="13_Input_Output\13_4_string_stream_class\string_stream.cpp" />
     <ClCompile Include="14. Template\14.1 Function Template\function_template.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

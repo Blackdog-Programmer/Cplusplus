@@ -165,5 +165,8 @@
     <ClCompile Include="11. Inheritance\11.6 Add Define Insert and Hide\redefine.cpp">
       <Filter>Source Files\11. Inheritance\11.6 Add Define Insert and Hide</Filter>
     </ClCompile>
+    <ClCompile Include="13_Input_Output\13_4_string_stream_class\string_stream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
