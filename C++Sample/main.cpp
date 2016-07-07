@@ -1,14 +1,15 @@
-
 #include <iostream>
+#include <string>
 
 using namespace std;
 
 int
 main(int agrc, char *argv[])
 {
-	int *a = new int[500000];
-	
-	delete[] a;
+	string str = "345cd34";
+	int val;
 
+	val = stoi(str);
+	cout << val;
 	return 0;
 }

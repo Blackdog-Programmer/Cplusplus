@@ -88,6 +88,15 @@
     <Filter Include="Source Files\11. Inheritance\11.6 Add Define Insert and Hide">
       <UniqueIdentifier>{3df20911-aaee-4c3f-a292-8456633d52ed}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\13. Input Output">
+      <UniqueIdentifier>{9814295c-52d0-4a4c-a2e7-8d01f1182374}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\13. Input Output\13.5. stream state and input validation">
+      <UniqueIdentifier>{e0600c96-5a54-43ed-98ed-18e4923dda8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\13. Input Output\13.4. string stream class">
+      <UniqueIdentifier>{b5fd1272-36df-444e-a01b-9cc7fe187c7b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="9. Operator Overloading\9.2. Arithematic Operator Overloading\arithemetic_overload.cpp">
@@ -165,8 +174,14 @@
     <ClCompile Include="11. Inheritance\11.6 Add Define Insert and Hide\redefine.cpp">
       <Filter>Source Files\11. Inheritance\11.6 Add Define Insert and Hide</Filter>
     </ClCompile>
+    <ClCompile Include="numeric_validation_via_stream_state.cpp">
+      <Filter>Source Files\13. Input Output\13.5. stream state and input validation</Filter>
+    </ClCompile>
+    <ClCompile Include="numeric_validation_via_string_conversion.cpp">
+      <Filter>Source Files\13. Input Output\13.5. stream state and input validation</Filter>
+    </ClCompile>
     <ClCompile Include="13_Input_Output\13_4_string_stream_class\string_stream.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\13. Input Output\13.4. string stream class</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

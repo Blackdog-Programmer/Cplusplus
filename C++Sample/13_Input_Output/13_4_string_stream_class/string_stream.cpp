@@ -1,5 +1,5 @@
 #include <iostream>
-#include <sstream>
+#include <sstream> // stringstream
 #include <string>
 
 using namespace std;
@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
 	strstm.clear(); // reset error flag
 
 	strstm << "7 2.718";
-	strstm >> val0 >> val1; // automatically built-in data type conversion
+	strstm >> val0 >> val1; // support built-in data type conversion
 	cout << val0 << " / " << val1 << "\n";
 
 	// Hello / World!
