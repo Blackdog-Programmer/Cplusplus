@@ -183,5 +183,8 @@
     <ClCompile Include="13_Input_Output\13_4_string_stream_class\string_stream.cpp">
       <Filter>Source Files\13. Input Output\13.4. string stream class</Filter>
     </ClCompile>
+    <ClCompile Include="13_Input_Output\13_5_stream_state_input_validation\string_validation.cpp">
+      <Filter>Source Files\13. Input Output\13.5. stream state and input validation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
