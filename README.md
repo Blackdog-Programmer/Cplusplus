@@ -7,7 +7,7 @@
 [C++ Operator Precednece](http://www.cplusplus.com/doc/tutorial/operators/)\
 [Implicit Type Conversion](https://www.geeksforgeeks.org/type-conversion-in-c/)\
 [Range Based Loop](https://www.geeksforgeeks.org/range-based-loop-c/)\
-[inline function](https://www.geeksforgeeks.org/inline-functions-cpp/)
+[inline function](https://www.geeksforgeeks.org/inline-functions-cpp/)\
 [Where to Put Default Parameter in Function](https://stackoverflow.com/questions/2842928/default-value-of-function-parameter)\
 [Mutator](https://en.wikipedia.org/wiki/Mutator_method)\
 [Shallow copy vs Deep Copy](https://stackoverflow.com/Questions/2657810/deep-copy-vs-shallow-copy)\
