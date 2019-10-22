@@ -7,4 +7,5 @@
 [Primitive Data Type Ranges](https://docs.microsoft.com/en-us/cpp/cpp/data-type-ranges?view=vs-2019)\
 [C++ Operator Precednece](http://www.cplusplus.com/doc/tutorial/operators/)\
 [Implicit Type Conversion](https://www.geeksforgeeks.org/type-conversion-in-c/)\
-[Range Based Loop](https://www.geeksforgeeks.org/range-based-loop-c/)
+[Range Based Loop](https://www.geeksforgeeks.org/range-based-loop-c/)\
+[static_cast vs dynamic_cast](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)
