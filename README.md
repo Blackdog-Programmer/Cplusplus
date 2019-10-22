@@ -1,8 +1,7 @@
+# Google C++ Style Guide
+[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)\
 # Beginning C++ Programming - From Beginner to Beyond
 [C++ Reference](http://www.cplusplus.com/reference/)\
-[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)\
-[VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
-[VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)\
 [C++ Keywords](https://en.cppreference.com/w/cpp/keyword)\
 [Primitive Data Type Ranges](https://docs.microsoft.com/en-us/cpp/cpp/data-type-ranges?view=vs-2019)\
 [C++ Operator Precednece](http://www.cplusplus.com/doc/tutorial/operators/)\
@@ -14,3 +13,6 @@
 [inline function](https://www.geeksforgeeks.org/inline-functions-cpp/)
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+# Visual Studio Code
+[VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
+[VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)\
