@@ -1,4 +1,5 @@
 # Beginning C++ Programming - From Beginner to Beyond
+[C++ Reference](http://www.cplusplus.com/reference/)\
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)\
 [VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
 [VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)\
