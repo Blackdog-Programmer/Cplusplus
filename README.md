@@ -17,4 +17,4 @@
 [VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
 [VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 # Others
-[Compiler/Linker](/images/preprocessor_compile_link_sequence.png)
+![Compiler/Linker](/images/preprocessor_compile_link_sequence.png)
