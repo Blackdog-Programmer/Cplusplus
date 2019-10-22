@@ -10,4 +10,4 @@
 [Range Based Loop](https://www.geeksforgeeks.org/range-based-loop-c/)\
 [static_cast vs dynamic_cast](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)\
 [C++ Vector](http://www.cplusplus.com/reference/vector/vector/begin/)\
-[C++ string](http://www.cplusplus.com/reference/string/string/)\
+[C++ string](http://www.cplusplus.com/reference/string/string/)
