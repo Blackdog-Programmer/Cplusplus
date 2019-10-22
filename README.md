@@ -5,4 +5,5 @@
 [VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)\
 [C++ Keywords](https://en.cppreference.com/w/cpp/keyword)\
 [Primitive Data Type Ranges](https://docs.microsoft.com/en-us/cpp/cpp/data-type-ranges?view=vs-2019)\
-[C++ Operator Precednece](http://www.cplusplus.com/doc/tutorial/operators/)
+[C++ Operator Precednece](http://www.cplusplus.com/doc/tutorial/operators/)\
+[Implicit Type Conversion](https://www.geeksforgeeks.org/type-conversion-in-c/)
