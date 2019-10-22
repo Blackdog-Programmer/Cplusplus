@@ -28,4 +28,5 @@
 [Object Code vs Executable Code](https://pediaa.com/what-is-the-difference-between-object-code-and-executable-code/)\
 [What is size_t](https://www.geeksforgeeks.org/size_t-data-type-c-language/), [When to use size_t](https://stackoverflow.com/questions/1951519/should-i-use-stdsize-t-or-int-in-my-for-loops/1951662#1951662)\
 [Integer Literal Symbols](https://en.cppreference.com/w/cpp/language/integer_literal)\
-[Floating Literal Symbols](https://en.cppreference.com/w/cpp/language/floating_literal)
+[Floating Literal Symbols](https://en.cppreference.com/w/cpp/language/floating_literal)\
+[typeid Operator](https://docs.microsoft.com/en-us/cpp/cpp/typeid-operator?view=vs-2019)
