@@ -12,7 +12,7 @@
 [C++ string](http://www.cplusplus.com/reference/string/string/)\
 [inline function](https://www.geeksforgeeks.org/inline-functions-cpp/)
 # C-Style Programing
-[malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+[malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
 [String Functions - strnlen(), strncpy()...](https://en.wikibooks.org/wiki/C_Programming/String_manipulation)
 # Visual Studio Code
 [VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
