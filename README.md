@@ -1,4 +1,4 @@
-# Google C++ Style Guide
+# C++ Style Guide
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 # C++ Programming
 [C++ Reference](http://www.cplusplus.com/reference/)\
