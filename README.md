@@ -10,6 +10,7 @@
 [inline function](https://www.geeksforgeeks.org/inline-functions-cpp/)\
 [Where to Put Default Parameter in Function](https://stackoverflow.com/questions/2842928/default-value-of-function-parameter)\
 [Pass by Reference const worth?](https://stackoverflow.com/questions/5060137/passing-as-const-and-by-reference-worth-it)\
+[const pointer vs pointer const](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)\
 [Mutator](https://en.wikipedia.org/wiki/Mutator_method)\
 [Shallow copy vs Deep Copy](https://stackoverflow.com/Questions/2657810/deep-copy-vs-shallow-copy)\
 [Overloading vs Overriding](https://www.geeksforgeeks.org/function-overloading-vs-function-overriding-in-cpp/)\
