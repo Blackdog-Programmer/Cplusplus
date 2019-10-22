@@ -25,7 +25,8 @@
 [String Functions - strnlen(), strncpy()...](https://en.wikibooks.org/wiki/C_Programming/String_manipulation)
 # Visual Studio Code
 [VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
-[VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+[VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)\
+[pregma once](https://en.wikipedia.org/wiki/Pragma_once)\
 # Others
 ![Compiler/Linker](/images/preprocessor_compile_link_sequence.png)\
 [Object Code vs Executable Code](https://pediaa.com/what-is-the-difference-between-object-code-and-executable-code/)\
