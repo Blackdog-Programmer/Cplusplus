@@ -26,4 +26,6 @@
 # Others
 ![Compiler/Linker](/images/preprocessor_compile_link_sequence.png)\
 [Object Code vs Executable Code](https://pediaa.com/what-is-the-difference-between-object-code-and-executable-code/)\
-[When to use size_t](https://classroom.udacity.com/courses/ud210/lessons/acb5e027-2f97-45e3-a04f-43ac1af0c063/concepts/f9ac9ae6-0e6e-42b2-a3f7-57428be8a379)
+[When to use size_t](https://classroom.udacity.com/courses/ud210/lessons/acb5e027-2f97-45e3-a04f-43ac1af0c063/concepts/f9ac9ae6-0e6e-42b2-a3f7-57428be8a379)\
+[Integer Literal Symbols](https://en.cppreference.com/w/cpp/language/integer_literal)\
+[Floating Literal Symbols](https://en.cppreference.com/w/cpp/language/floating_literal)
