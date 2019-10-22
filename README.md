@@ -11,14 +11,15 @@
 [Where to Put Default Parameter in Function](https://stackoverflow.com/questions/2842928/default-value-of-function-parameter)\
 [Pass by Reference const worth?](https://stackoverflow.com/questions/5060137/passing-as-const-and-by-reference-worth-it)\
 [const pointer vs pointer const](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)\
-[lvalue vs rvalue](https://thispointer.com/difference-between-lvalue-and-rvalue-in-c/)
+[lvalue vs rvalue](https://thispointer.com/difference-between-lvalue-and-rvalue-in-c/)\
+[static_cast vs dynamic_cast](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)
 # OOP
 [Constructor Initialize List](https://www.geeksforgeeks.org/when-do-we-use-initializer-list-in-c/)\
 [Mutator](https://en.wikipedia.org/wiki/Mutator_method)\
 [Shallow copy vs Deep Copy](https://stackoverflow.com/Questions/2657810/deep-copy-vs-shallow-copy)\
 [Overloading vs Overriding](https://www.geeksforgeeks.org/function-overloading-vs-function-overriding-in-cpp/)\
 [Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-c/)\
-[static_cast vs dynamic_cast](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)\
+
 [C++ Vector](http://www.cplusplus.com/reference/vector/vector/begin/)\
 [C++ string](http://www.cplusplus.com/reference/string/string/)
 
