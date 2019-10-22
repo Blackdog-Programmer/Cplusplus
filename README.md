@@ -1,6 +1,6 @@
 # Google C++ Style Guide
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-# Beginning C++ Programming - From Beginner to Beyond
+# C++ Programming
 [C++ Reference](http://www.cplusplus.com/reference/)\
 [C++ Keywords](https://en.cppreference.com/w/cpp/keyword)\
 [Primitive Data Type Ranges](https://docs.microsoft.com/en-us/cpp/cpp/data-type-ranges?view=vs-2019)\
