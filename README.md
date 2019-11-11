@@ -20,7 +20,6 @@
 [Shallow copy vs Deep Copy](https://stackoverflow.com/Questions/2657810/deep-copy-vs-shallow-copy)\
 [Overloading vs Overriding](https://www.geeksforgeeks.org/function-overloading-vs-function-overriding-in-cpp/)\
 [Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-c/)\
-
 [C++ Vector](http://www.cplusplus.com/reference/vector/vector/begin/)\
 [C++ string](http://www.cplusplus.com/reference/string/string/)
 
