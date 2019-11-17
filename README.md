@@ -14,7 +14,7 @@
 [lvalue vs rvalue](https://thispointer.com/difference-between-lvalue-and-rvalue-in-c/)\
 [static_cast vs dynamic_cast](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)
 # OOP
-[Move Constructor](https://docs.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp?view=vs-2019)\
+[Move Constructor](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535596#overview)\
 [Constructor Initialize List](https://www.geeksforgeeks.org/when-do-we-use-initializer-list-in-c/)\
 [Mutator](https://en.wikipedia.org/wiki/Mutator_method)\
 [Shallow copy vs Deep Copy](https://stackoverflow.com/Questions/2657810/deep-copy-vs-shallow-copy)\
