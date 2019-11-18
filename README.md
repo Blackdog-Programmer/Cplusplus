@@ -11,7 +11,6 @@
 [Where to Put Default Parameter in Function](https://stackoverflow.com/questions/2842928/default-value-of-function-parameter)\
 [Pass by Reference const worth?](https://stackoverflow.com/questions/5060137/passing-as-const-and-by-reference-worth-it)\
 [const pointer vs pointer const](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)\
-[lvalue vs rvalue](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535550#overview/)\
 [static_cast vs dynamic_cast](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)
 # OOP
 [Move Constructor](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535596#overview)\
@@ -38,3 +37,5 @@
 [Integer Literal Symbols](https://en.cppreference.com/w/cpp/language/integer_literal)\
 [Floating Literal Symbols](https://en.cppreference.com/w/cpp/language/floating_literal)\
 [typeid Operator](https://docs.microsoft.com/en-us/cpp/cpp/typeid-operator?view=vs-2019)
+# Tips
+[lvalue vs rvalue](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535550#overview/)\
