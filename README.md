@@ -19,6 +19,7 @@
 [Shallow copy vs Deep Copy](https://stackoverflow.com/Questions/2657810/deep-copy-vs-shallow-copy)\
 [Overloading vs Overriding](https://www.geeksforgeeks.org/function-overloading-vs-function-overriding-in-cpp/)\
 [Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-c/)\
+[Virtual Function in C++](https://www.geeksforgeeks.org/virtual-function-cpp/)\
 [C++ Vector](http://www.cplusplus.com/reference/vector/vector/begin/)\
 [C++ string](http://www.cplusplus.com/reference/string/string/)\
 [Operator Overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=vs-2019)\
