@@ -21,7 +21,8 @@
 [Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-c/)\
 [C++ Vector](http://www.cplusplus.com/reference/vector/vector/begin/)\
 [C++ string](http://www.cplusplus.com/reference/string/string/)\
-[Operator Overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=vs-2019)
+[Operator Overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=vs-2019)\
+[Smart Pointer(Geeks)](https://www.geeksforgeeks.org/smart-pointers-cpp/), [Smart Pointers(MSDN)(https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=vs-2019)
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
 [String Functions - strnlen(), strncpy()...](https://en.wikibooks.org/wiki/C_Programming/String_manipulation)
