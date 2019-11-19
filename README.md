@@ -3,6 +3,7 @@
 # C++ STL
 <a href="https://www.geeksforgeeks.org/the-c-standard-template-library-stl/">C++ STL List - </a>[Containers](http://www.cplusplus.com/reference/stl/), [Algorithms](http://www.cplusplus.com/reference/algorithm/), [Iterators](https://www.geeksforgeeks.org/iterators-c-stl/)\
 ![STL Three Elemnets](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/20_STL/References/STL_Three_Elemen.png)\
+[Container vs Adaptor](https://stackoverflow.com/questions/3873802/what-are-containers-adapters-c)\
 [Lamda Expression(Geeks)](https://www.geeksforgeeks.org/lambda-expression-in-c/), [Lamda Expression(MSDN)](https://docs.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=vs-2019)
 # C++ Programming
 [C++ Reference](http://www.cplusplus.com/reference/)\
