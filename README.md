@@ -36,8 +36,10 @@
   </ol>
 </uo>
 
-[Exception Handling](https://www.geeksforgeeks.org/exception-handling-c/)\
-[std::exception::what](http://www.cplusplus.com/reference/exception/exception/what/)
+<uo> [Exception Handling](https://www.geeksforgeeks.org/exception-handling-c/)\
+  <li>[std::exception::what](http://www.cplusplus.com/reference/exception/exception/what/)</li>
+ </uo>
+ 
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
 [String Functions - strnlen(), strncpy()...](https://en.wikibooks.org/wiki/C_Programming/String_manipulation)
