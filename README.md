@@ -35,6 +35,7 @@
     <li><a href="http://www.cplusplus.com/reference/memory/weak_ptr/">unique_pointer</a>></li>
   </ol>
 </uo>
+[Exception Handling](https://www.geeksforgeeks.org/exception-handling-c/)\
 
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
