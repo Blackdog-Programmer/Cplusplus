@@ -36,7 +36,7 @@
   </ol>
 </uo>
 
-<uo> [Exception Handling](https://www.geeksforgeeks.org/exception-handling-c/)\
+<uo> [Exception Handling](https://www.geeksforgeeks.org/exception-handling-c/)
   <li><a href="http://www.cplusplus.com/reference/exception/exception/what/">std::exception::what</a></li>
 </uo>
  
