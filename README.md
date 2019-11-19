@@ -25,8 +25,6 @@
 [Virtual Functions](https://www.geeksforgeeks.org/virtual-function-cpp/)\
 [static binding vs dynamic binding](https://www.techiedelight.com/difference-between-static-dynamic-binding-cpp/)\
 [Virtual Function in C++](https://www.geeksforgeeks.org/virtual-function-cpp/)\
-[C++ Vector](http://www.cplusplus.com/reference/vector/vector/begin/)\
-[C++ string](http://www.cplusplus.com/reference/string/string/)\
 [Operator Overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=vs-2019)\
 [Vritual Operator Overloading](https://stackoverflow.com/questions/12142893/virtual-friend-functions-for-a-base-class/12142982)
 <uo>
