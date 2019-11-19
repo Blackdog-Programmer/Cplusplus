@@ -43,7 +43,8 @@
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
 [String Functions - strnlen(), strncpy()...](https://en.wikibooks.org/wiki/C_Programming/String_manipulation)
-# Visual Studio Code
+# Visual Studio & Visual Studio Code
+[Visual Studio Keyboard Shortcut](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2019)\
 [VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
 [VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)\
 [pregma once](https://en.wikipedia.org/wiki/Pragma_once)
