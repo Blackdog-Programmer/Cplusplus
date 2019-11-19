@@ -51,10 +51,6 @@
 [VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
 [VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)\
 [pregma once](https://en.wikipedia.org/wiki/Pragma_once)
-# Advanced
-[lvalue vs rvalue](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535550#overview/)\
-![l-avlue](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/l-value.png)\
-![r-value](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/r-value.png)
 # Others
 ![Inheritance Specified](/References/inheritance_specifier.png)\
 [Object Code vs Executable Code](https://pediaa.com/what-is-the-difference-between-object-code-and-executable-code/)\
@@ -62,4 +58,6 @@
 [Integer Literal Symbols](https://en.cppreference.com/w/cpp/language/integer_literal)\
 [Floating Literal Symbols](https://en.cppreference.com/w/cpp/language/floating_literal)\
 [typeid Operator](https://docs.microsoft.com/en-us/cpp/cpp/typeid-operator?view=vs-2019)
-
+[lvalue vs rvalue](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535550#overview/)\
+![l-avlue](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/l-value.png)\
+![r-value](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/r-value.png)
