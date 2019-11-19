@@ -19,10 +19,14 @@
 [Shallow copy vs Deep Copy](https://stackoverflow.com/Questions/2657810/deep-copy-vs-shallow-copy)\
 [Overloading vs Overriding](https://www.geeksforgeeks.org/function-overloading-vs-function-overriding-in-cpp/)\
 [Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-c/)\
+[Virtual Functions](https://www.geeksforgeeks.org/virtual-function-cpp/)\
+[static binding vs dynamic binding](https://www.techiedelight.com/difference-between-static-dynamic-binding-cpp/)\
 [Virtual Function in C++](https://www.geeksforgeeks.org/virtual-function-cpp/)\
 [C++ Vector](http://www.cplusplus.com/reference/vector/vector/begin/)\
 [C++ string](http://www.cplusplus.com/reference/string/string/)\
 [Operator Overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=vs-2019)\
+[Vritual Operator Overloading](https://stackoverflow.com/questions/12142893/virtual-friend-functions-for-a-base-class/12142982)\
+
 <uo>
   <li> <a href="https://www.geeksforgeeks.org/smart-pointers-cpp/">Smart Pointer(Geeks for Geeks)</a></li>
   <li> <a href="https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=vs-2019/">Smart Pointers(MSDN)</a></li>
