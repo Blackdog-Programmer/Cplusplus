@@ -23,7 +23,7 @@
 [C++ Vector](http://www.cplusplus.com/reference/vector/vector/begin/)\
 [C++ string](http://www.cplusplus.com/reference/string/string/)\
 [Operator Overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=vs-2019)\
-[Smart Pointer(Geeks)](https://www.geeksforgeeks.org/smart-pointers-cpp/), [Smart Pointers(MSDN)(https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=vs-2019)
+[Smart Pointer(Geeks)](https://www.geeksforgeeks.org/smart-pointers-cpp/), [Smart Pointers(MSDN)https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=vs-2019\
 <ol>
   <li><a href="http://www.cplusplus.com/reference/memory/unique_ptr">unique_pointer</a>></li>
   <li><a href="http://www.cplusplus.com/reference/memory/shared_ptr/">unique_pointer</a>></li>
@@ -36,7 +36,7 @@
 # Visual Studio Code
 [VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
 [VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)\
-[pregma once](https://en.wikipedia.org/wiki/Pragma_once)\
+[pregma once](https://en.wikipedia.org/wiki/Pragma_once)
 # Others
 ![Compiler/Linker](/References/preprocessor_compile_link_sequence.png)\
 ![Inheritance Specified](/References/inheritance_specifier.png)\
