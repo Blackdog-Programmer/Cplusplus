@@ -42,7 +42,7 @@
   <li><a href="http://www.cplusplus.com/reference/exception/exception/what/">std::exception::what</a></li>
 </uo>
 
-[Generics in C++]("https://www.geeksforgeeks.org/generics-in-c/")
+[Generics in C++](https://www.geeksforgeeks.org/generics-in-c/)
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
 [String Functions - strnlen(), strncpy()...](https://en.wikibooks.org/wiki/C_Programming/String_manipulation)
