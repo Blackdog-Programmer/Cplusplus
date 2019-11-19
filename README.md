@@ -25,8 +25,7 @@
 [C++ Vector](http://www.cplusplus.com/reference/vector/vector/begin/)\
 [C++ string](http://www.cplusplus.com/reference/string/string/)\
 [Operator Overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=vs-2019)\
-[Vritual Operator Overloading](https://stackoverflow.com/questions/12142893/virtual-friend-functions-for-a-base-class/12142982)\
-
+[Vritual Operator Overloading](https://stackoverflow.com/questions/12142893/virtual-friend-functions-for-a-base-class/12142982)
 <uo>
   <li> <a href="https://www.geeksforgeeks.org/smart-pointers-cpp/">Smart Pointer(Geeks for Geeks)</a></li>
   <li> <a href="https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=vs-2019/">Smart Pointers(MSDN)</a></li>
