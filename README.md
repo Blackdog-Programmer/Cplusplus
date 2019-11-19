@@ -24,6 +24,12 @@
 [C++ string](http://www.cplusplus.com/reference/string/string/)\
 [Operator Overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=vs-2019)\
 [Smart Pointer(Geeks)](https://www.geeksforgeeks.org/smart-pointers-cpp/), [Smart Pointers(MSDN)(https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=vs-2019)
+<ol>
+  <li><a href="http://www.cplusplus.com/reference/memory/unique_ptr">unique_pointer</a>>li
+  <li><a href="http://www.cplusplus.com/reference/memory/unique_ptr">unique_pointer</a>>li
+  <li><a href="http://www.cplusplus.com/reference/memory/unique_ptr">unique_pointer</a>>li  
+</ol>
+
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
 [String Functions - strnlen(), strncpy()...](https://en.wikibooks.org/wiki/C_Programming/String_manipulation)
