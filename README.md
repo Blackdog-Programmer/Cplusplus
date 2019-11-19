@@ -60,7 +60,7 @@
 [Integer Literal Symbols](https://en.cppreference.com/w/cpp/language/integer_literal)\
 [Floating Literal Symbols](https://en.cppreference.com/w/cpp/language/floating_literal)\
 [typeid Operator](https://docs.microsoft.com/en-us/cpp/cpp/typeid-operator?view=vs-2019)
-# Tips
+# Advanced
 [lvalue vs rvalue](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535550#overview/)\
 ![l-avlue](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/l-value.png)\
 ![r-value](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/r-value.png)
