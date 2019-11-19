@@ -24,8 +24,8 @@
 [C++ string](http://www.cplusplus.com/reference/string/string/)\
 [Operator Overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=vs-2019)\
 <uo>
-  <li> [Smart Pointer(Geeks)](https://www.geeksforgeeks.org/smart-pointers-cpp/)</li>
-  <li> [Smart Pointers(MSDN)](https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=vs-2019/)</li>
+  <li> <a href="https://www.geeksforgeeks.org/smart-pointers-cpp/")Smart Pointer(Geeks for Geeks)</li>
+  <li> <a href="https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=vs-2019/">Smart Pointers(MSDN)</li>
   <ol>
     <li><a href="http://www.cplusplus.com/reference/memory/unique_ptr">unique_pointer</a>></li>
     <li><a href="http://www.cplusplus.com/reference/memory/shared_ptr/">unique_pointer</a>></li>
