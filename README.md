@@ -43,6 +43,7 @@
   <li><a href="http://www.cplusplus.com/reference/exception/exception/what/">std::exception::what</a></li>
 </uo>
 
+[Generics in C++](https://www.geeksforgeeks.org/generics-in-c/)
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
 [String Functions - strnlen(), strncpy()...](https://en.wikibooks.org/wiki/C_Programming/String_manipulation)
@@ -60,7 +61,6 @@
 [Floating Literal Symbols](https://en.cppreference.com/w/cpp/language/floating_literal)\
 [typeid Operator](https://docs.microsoft.com/en-us/cpp/cpp/typeid-operator?view=vs-2019)
 # Advanced
-[Generics in C++](https://www.geeksforgeeks.org/generics-in-c/)
 [lvalue vs rvalue](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535550#overview/)\
 ![l-avlue](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/l-value.png)\
 ![r-value](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/r-value.png)
