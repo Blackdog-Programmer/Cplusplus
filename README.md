@@ -14,9 +14,10 @@
 [Where to Put Default Parameter in Function](https://stackoverflow.com/questions/2842928/default-value-of-function-parameter)\
 [Pass by Reference const worth?](https://stackoverflow.com/questions/5060137/passing-as-const-and-by-reference-worth-it)\
 [const pointer vs pointer const](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)\
+[Pointer vs Reference](https://www.geeksforgeeks.org/pointers-vs-references-cpp/)\
 [static_cast vs dynamic_cast](https://stackoverflow.com/questions/28002/regular-cast-vs-static-cast-vs-dynamic-cast)
 # OOP - Class/Inheritance/Polymorphsim/Generics
-[Move Constructor](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535596#overview)\
+[Move Constructor](https://docs.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp?view=vs-2019)\
 [Constructor Initialize List](https://www.geeksforgeeks.org/when-do-we-use-initializer-list-in-c/)\
 [Mutator](https://en.wikipedia.org/wiki/Mutator_method)\
 [Shallow copy vs Deep Copy](https://stackoverflow.com/Questions/2657810/deep-copy-vs-shallow-copy)\
