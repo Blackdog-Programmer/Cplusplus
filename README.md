@@ -37,8 +37,8 @@
 </uo>
 
 <uo> [Exception Handling](https://www.geeksforgeeks.org/exception-handling-c/)\
-  <li>[std::exception::what](http://www.cplusplus.com/reference/exception/exception/what/)</li>
- </uo>
+  <li><a href="http://www.cplusplus.com/reference/exception/exception/what/">std::exception::what</a></li>
+</uo>
  
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
