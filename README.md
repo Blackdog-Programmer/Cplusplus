@@ -15,7 +15,7 @@
 [Pass by Reference const worth?](https://stackoverflow.com/questions/5060137/passing-as-const-and-by-reference-worth-it)\
 [const pointer vs pointer const](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)\
 [static_cast vs dynamic_cast](https://stackoverflow.com/questions/28002/regular-cast-vs-static-cast-vs-dynamic-cast)
-# OOP
+# OOP - Class/Inheritance/Polymorphsim/Generics
 [Move Constructor](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535596#overview)\
 [Constructor Initialize List](https://www.geeksforgeeks.org/when-do-we-use-initializer-list-in-c/)\
 [Mutator](https://en.wikipedia.org/wiki/Mutator_method)\
