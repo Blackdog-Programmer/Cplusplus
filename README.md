@@ -5,6 +5,7 @@
 ![STL Three Elemnets](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/20_STL/References/STL_Three_Elemen.png)\
 [Container vs Adaptor](https://stackoverflow.com/questions/3873802/what-are-containers-adapters-c)\
 [Lamda Expression(Geeks)](https://www.geeksforgeeks.org/lambda-expression-in-c/), [Lamda Expression(MSDN)](https://docs.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=vs-2019)
+
 # C++ Programming
 [C++ Reference](http://www.cplusplus.com/reference/)\
 [Primitive Data Type Ranges](https://docs.microsoft.com/en-us/cpp/cpp/data-type-ranges?view=vs-2019)\
@@ -18,7 +19,7 @@
 [const pointer vs pointer const](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)\
 [Pointer vs Reference](https://www.geeksforgeeks.org/pointers-vs-references-cpp/)\
 [static_cast vs dynamic_cast](https://stackoverflow.com/questions/28002/regular-cast-vs-static-cast-vs-dynamic-cast)
-# OOP - Class/Inheritance/Polymorphsim/Generics
+# OOP - Class/Inheritance/Polymorphsim
 [Move Constructor and Move Assignment](https://docs.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp?view=vs-2019)\
 [Constructor Initialize List](https://www.geeksforgeeks.org/when-do-we-use-initializer-list-in-c/)\
 [Mutator](https://en.wikipedia.org/wiki/Mutator_method)\
@@ -44,7 +45,9 @@
   <li><a href="http://www.cplusplus.com/reference/exception/exception/what/">std::exception::what</a></li>
 </uo>
 
+# OOP - Generics
 [Generics in C++](https://www.geeksforgeeks.org/generics-in-c/)
+
 # Supplement
 ![Inheritance Specified](/References/inheritance_specifier.png)\
 [Object Code vs Executable Code](https://pediaa.com/what-is-the-difference-between-object-code-and-executable-code/)\
@@ -55,9 +58,11 @@
 [lvalue vs rvalue](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535550#overview/)\
 ![l-avlue](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/l-value.png)\
 ![r-value](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/r-value.png)
+
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
 [String Functions - strnlen(), strncpy()...](https://en.wikibooks.org/wiki/C_Programming/String_manipulation)
+
 # Visual Studio & Visual Studio Code
 [Visual Studio Keyboard Shortcut](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2019)\
 [VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
