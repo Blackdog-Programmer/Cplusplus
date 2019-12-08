@@ -2,8 +2,10 @@
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ## C++ STL
-<a href="https://www.geeksforgeeks.org/the-c-standard-template-library-stl/">C++ STL List - </a>[Containers](http://www.cplusplus.com/reference/stl/), [Algorithms](http://www.cplusplus.com/reference/algorithm/), [Iterators](https://www.geeksforgeeks.org/iterators-c-stl/)\
-![STL Three Elemnets](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/20_STL/References/STL_Three_Elemen.png)\
+<a href="https://www.geeksforgeeks.org/the-c-standard-template-library-stl/">C++ STL List - </a>[Containers](http://www.cplusplus.com/reference/stl/), [Algorithms](http://www.cplusplus.com/reference/algorithm/), [Iterators](https://www.geeksforgeeks.org/iterators-c-stl/)
+
+![STL Three Elemnets](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/20_STL/References/STL_Three_Elemen.png)
+
 [Container vs Adaptor](https://stackoverflow.com/questions/3873802/what-are-containers-adapters-c)\
 [Lamda Expression(Geeks)](https://www.geeksforgeeks.org/lambda-expression-in-c/), [Lamda Expression(MSDN)](https://docs.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=vs-2019)
 
@@ -51,14 +53,17 @@
 [Generics in C++](https://www.geeksforgeeks.org/generics-in-c/)
 
 ## Supplement
-![Inheritance Specified](/References/inheritance_specifier.png)\
+![Inheritance Specified](/References/inheritance_specifier.png)
+
 [Object Code vs Executable Code](https://pediaa.com/what-is-the-difference-between-object-code-and-executable-code/)\
 [What is size_t](https://www.geeksforgeeks.org/size_t-data-type-c-language/), [When to use size_t](https://stackoverflow.com/questions/1951519/should-i-use-stdsize-t-or-int-in-my-for-loops/1951662#1951662)\
 [Integer Literal Symbols](https://en.cppreference.com/w/cpp/language/integer_literal)\
 [Floating Literal Symbols](https://en.cppreference.com/w/cpp/language/floating_literal)\
 [typeid Operator](https://docs.microsoft.com/en-us/cpp/cpp/typeid-operator?view=vs-2019)
-[lvalue vs rvalue](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535550#overview/)\
-![l-avlue](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/l-value.png)\
+[lvalue vs rvalue](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535550#overview/)
+
+![l-avlue](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/l-value.png)
+
 ![r-value](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/r-value.png)
 
 ## Others
