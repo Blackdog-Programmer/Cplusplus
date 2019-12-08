@@ -67,7 +67,7 @@
 ![r-value](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/r-value.png)
 
 ## Others
-[Enum Class](https://www.geeksforgeeks.org/enum-classes-in-c-and-their-advantage-over-enum-datatype/)
+[Enum Classes in C++ and Their Advantage over Enum DataType](https://www.geeksforgeeks.org/enum-classes-in-c-and-their-advantage-over-enum-datatype/)
 
 ## C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
