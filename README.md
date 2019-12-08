@@ -1,5 +1,6 @@
 # C++ Style Guide
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
 # C++ STL
 <a href="https://www.geeksforgeeks.org/the-c-standard-template-library-stl/">C++ STL List - </a>[Containers](http://www.cplusplus.com/reference/stl/), [Algorithms](http://www.cplusplus.com/reference/algorithm/), [Iterators](https://www.geeksforgeeks.org/iterators-c-stl/)\
 ![STL Three Elemnets](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/20_STL/References/STL_Three_Elemen.png)\
@@ -19,6 +20,7 @@
 [const pointer vs pointer const](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)\
 [Pointer vs Reference](https://www.geeksforgeeks.org/pointers-vs-references-cpp/)\
 [static_cast vs dynamic_cast](https://stackoverflow.com/questions/28002/regular-cast-vs-static-cast-vs-dynamic-cast)
+
 # OOP - Class/Inheritance/Polymorphsim
 [Move Constructor and Move Assignment](https://docs.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp?view=vs-2019)\
 [Constructor Initialize List](https://www.geeksforgeeks.org/when-do-we-use-initializer-list-in-c/)\
@@ -58,6 +60,9 @@
 [lvalue vs rvalue](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535550#overview/)\
 ![l-avlue](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/l-value.png)\
 ![r-value](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/r-value.png)
+
+# Others
+[Enum Class](https://www.geeksforgeeks.org/enum-classes-in-c-and-their-advantage-over-enum-datatype/)
 
 # C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
