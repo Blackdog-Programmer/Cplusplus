@@ -1,13 +1,13 @@
-# C++ Style Guide
+## C++ Style Guide
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
-# C++ STL
+## C++ STL
 <a href="https://www.geeksforgeeks.org/the-c-standard-template-library-stl/">C++ STL List - </a>[Containers](http://www.cplusplus.com/reference/stl/), [Algorithms](http://www.cplusplus.com/reference/algorithm/), [Iterators](https://www.geeksforgeeks.org/iterators-c-stl/)\
 ![STL Three Elemnets](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/20_STL/References/STL_Three_Elemen.png)\
 [Container vs Adaptor](https://stackoverflow.com/questions/3873802/what-are-containers-adapters-c)\
 [Lamda Expression(Geeks)](https://www.geeksforgeeks.org/lambda-expression-in-c/), [Lamda Expression(MSDN)](https://docs.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=vs-2019)
 
-# C++ Programming
+## C++ Programming Basic
 [C++ Reference](http://www.cplusplus.com/reference/)\
 [Primitive Data Type Ranges](https://docs.microsoft.com/en-us/cpp/cpp/data-type-ranges?view=vs-2019)\
 [C++ Keywords](https://en.cppreference.com/w/cpp/keyword)\
@@ -21,7 +21,7 @@
 [Pointer vs Reference](https://www.geeksforgeeks.org/pointers-vs-references-cpp/)\
 [static_cast vs dynamic_cast](https://stackoverflow.com/questions/28002/regular-cast-vs-static-cast-vs-dynamic-cast)
 
-# OOP - Class/Inheritance/Polymorphsim
+## OOP - Class/Inheritance/Polymorphsim
 [Move Constructor and Move Assignment](https://docs.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp?view=vs-2019)\
 [Constructor Initialize List](https://www.geeksforgeeks.org/when-do-we-use-initializer-list-in-c/)\
 [Mutator](https://en.wikipedia.org/wiki/Mutator_method)\
@@ -47,10 +47,10 @@
   <li><a href="http://www.cplusplus.com/reference/exception/exception/what/">std::exception::what</a></li>
 </uo>
 
-# OOP - Generics
+## OOP - Generics
 [Generics in C++](https://www.geeksforgeeks.org/generics-in-c/)
 
-# Supplement
+## Supplement
 ![Inheritance Specified](/References/inheritance_specifier.png)\
 [Object Code vs Executable Code](https://pediaa.com/what-is-the-difference-between-object-code-and-executable-code/)\
 [What is size_t](https://www.geeksforgeeks.org/size_t-data-type-c-language/), [When to use size_t](https://stackoverflow.com/questions/1951519/should-i-use-stdsize-t-or-int-in-my-for-loops/1951662#1951662)\
@@ -61,14 +61,14 @@
 ![l-avlue](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/l-value.png)\
 ![r-value](https://github.com/Blackdog-Programmer/Cplusplus/blob/master/References/r-value.png)
 
-# Others
+## Others
 [Enum Class](https://www.geeksforgeeks.org/enum-classes-in-c-and-their-advantage-over-enum-datatype/)
 
-# C-Style Programing
+## C-Style Programing
 [malloc(), calloc(), realloc(), free()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)\
 [String Functions - strnlen(), strncpy()...](https://en.wikibooks.org/wiki/C_Programming/String_manipulation)
 
-# Visual Studio & Visual Studio Code
+## Visual Studio & Visual Studio Code
 [Visual Studio Keyboard Shortcut](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2019)\
 [VS Code Mingw64 Configuration](https://code.visualstudio.com/docs/cpp/config-mingw)\
 [VS Code Keyboard Shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)\
